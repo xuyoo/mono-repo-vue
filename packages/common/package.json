@@ -1,0 +1,26 @@
+{
+  "name": "@mono-repo-demo/common",
+  "version": "0.0.0",
+  "description": "公共组件",
+  "keywords": [
+    "common",
+    "components"
+  ],
+  "author": "xuyuanyuan52 <xuyuanyuan52@jd.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/common.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npm.taobao.org/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/common.test.js"
+  }
+}

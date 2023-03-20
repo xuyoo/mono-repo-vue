@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start:aSite": "lerna --scope @mono-repo-demo/projecta run dev",
+    "start:bSite": "lerna --scope @mono-repo-demo/projectb run dev"
+  },
+  "devDependencies": {
+    "lerna": "^6.5.1"
+  }
+}
