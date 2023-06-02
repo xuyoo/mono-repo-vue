@@ -24,5 +24,5 @@
   "scripts": {
     "test": "node ./__tests__/common.test.js"
   },
-  "gitHead": "a1188c450c90198fcd12e1d169f48971bc3fb540"
+  "gitHead": "d942fba2abc1c85209976859f300dbec9a205bb6"
 }
