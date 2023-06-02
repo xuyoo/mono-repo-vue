@@ -1,6 +1,6 @@
 {
   "name": "@mono-repo-demo/common",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "公共组件",
   "keywords": [
     "common",
