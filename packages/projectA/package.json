@@ -1,6 +1,6 @@
 {
   "name": "@mono-repo-demo/projecta",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "private": true,
   "scripts": {
     "dev": "vite",
@@ -12,7 +12,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "@mono-repo-demo/common": "^4.0.2",
+    "@mono-repo-demo/common": "^4.0.3",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
   },
